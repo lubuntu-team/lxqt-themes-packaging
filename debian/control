@@ -21,12 +21,12 @@ Breaks: lxqt-common (<< 0.11.3)
 Replaces: lxqt-common (<< 0.11.3)
 Description: Themes for LXQt
  Some upstream themes for LXQt
- * Ambiance 
- * Dark
- * Frost
- * KDE-Plasma
- * Light
- * System
+  * Ambiance 
+  * Dark
+  * Frost
+  * KDE-Plasma
+  * Light
+  * System
  .
  This Package contains LXQt theme files.
 
