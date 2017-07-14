@@ -16,7 +16,6 @@ Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends},
          lxqt-system-theme
-Provides: lxqt-theme
 Breaks: lxqt-common (<< 0.11.3)
 Replaces: lxqt-common (<< 0.11.3)
 Description: Themes for LXQt
