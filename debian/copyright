@@ -3,51 +3,29 @@ Upstream-Name: lxqt-themes
 Source: https://github.com/lxde/lxqt-themes
 
 Files: *
-Copyright: 2012-2017 LXQt team
-           2010-2012 Razor team
+Copyright: 2012-2017, LXQt team
+           2010-2012, Razor team
 License: LGPL-2.1+
 
 Files: graphics/*
-Copyright: 2012-2013 Giacomo Barazzetti <giacomosrv@gmail.com>
+       themes/ambiance/mainmenu.svg
+       themes/dark/mainmenu.svg
+       themes/frost/mainmenu.svg
+       themes/kde-plasma/mainmenu.svg
+       themes/light/mainmenu.svg
+Copyright: 2012-2013, Giacomo Barazzetti <giacomosrv@gmail.com>
 License: CC-BY-SA-3.0
 
-Files: themes/kde-plasma/kde-plasma.png
-Copyright: 2014 Uri Herrera <kaisergreymon99@gmail.com>
-License: LGPL-3+
-
 Files: debian/*
-Copyright: 2014-2017 Alf Gaida <agaida@siduction.org>
-           2015	     Andrew Lee (李健秋) <ajqlee@debian.org>
-           2015      ChangZhuo Chen (陳昌倬) <czchen@debian.org>
+Copyright: 2014-2017, Alf Gaida <agaida@siduction.org>
+           2015, Andrew Lee (李健秋) <ajqlee@debian.org>
+           2015, ChangZhuo Chen (陳昌倬) <czchen@debian.org>
 License: LGPL-2.1+
 
+Files: themes/kde-plasma/kde-plasma.png
+Copyright: 2014, Uri Herrera <kaisergreymon99@gmail.com>
 License: LGPL-3+
- This package is free software; you can redistribute it and/or
- modify it under the terms of the GNU Lesser General Public
- License as published by the Free Software Foundation; either
- version 3 of the License, or (at your option) any later version.
- .
- This package is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
- Lesser General Public License for more details.
- .
- On Debian systems, the complete text of the GNU Lesser General
- Public License can be found in "/usr/share/common-licenses/LGPL-3".
 
-License: LGPL-2.1+
- This program or library is free software; you can redistribute it
- and/or modify it under the terms of the GNU Lesser General Public
- License as published by the Free Software Foundation; either
- version 2.1 of the License, or (at your option) any later version.
- .
- This program is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
- Lesser General Public License for more details.
- .
- On Debian systems, the complete text of the GNU Lesser General
- Public License version 2.1 can be found in "/usr/share/common-licenses/LGPL-2.1".
 
 License: CC-BY-SA-3.0
  THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS
@@ -394,3 +372,32 @@ License: CC-BY-SA-3.0
     does not form part of this License.
  .
     Creative Commons may be contacted at http://creativecommons.org/.
+
+License: LGPL-2.1+
+ This program or library is free software; you can redistribute it
+ and/or modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 2.1 of the License, or (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ .
+ On Debian systems, the complete text of the GNU Lesser General
+ Public License version 2.1 can be found in "/usr/share/common-licenses/LGPL-2.1".
+
+License: LGPL-3+
+ This package is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 3 of the License, or (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ .
+ On Debian systems, the complete text of the GNU Lesser General
+ Public License can be found in "/usr/share/common-licenses/LGPL-3".
+
