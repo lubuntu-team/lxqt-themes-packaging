@@ -1,3 +1,9 @@
+lxqt-themes (0.12.0-2) unstable; urgency=medium
+
+  * Switch to unstable
+
+ -- Alf Gaida <agaida@siduction.org>  Mon, 04 Dec 2017 01:27:23 +0100
+
 lxqt-themes (0.12.0-1) experimental; urgency=medium
 
   * Initial release (Closes: #867606) 
