@@ -7,9 +7,9 @@ Priority: optional
 Build-Depends: debhelper (>= 10),
                cmake (>= 3.0.2),
                lxqt-build-tools
-Standards-Version: 4.1.1
-Vcs-Browser: https://anonscm.debian.org/cgit/pkg-lxqt/lxqt-themes.git/?h=debian/sid
-Vcs-Git: https://anonscm.debian.org/git/pkg-lxqt/lxqt-themes.git -b debian/sid
+Standards-Version: 4.1.2
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-lxqt/lxqt-themes.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-lxqt/lxqt-themes.git
 Homepage: https://github.com/lxde/lxqt-themes
 
 Package: lxqt-themes
