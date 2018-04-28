@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: lxqt-themes
-Source: https://github.com/lxde/lxqt-themes
+Source: https://github.com/lxqt/lxqt-themes
 
 Files: *
 Copyright: 2012-2017, LXQt team
@@ -17,7 +17,7 @@ Copyright: 2012-2013, Giacomo Barazzetti <giacomosrv@gmail.com>
 License: CC-BY-SA-3.0
 
 Files: debian/*
-Copyright: 2014-2017, Alf Gaida <agaida@siduction.org>
+Copyright: 2014-2018, Alf Gaida <agaida@siduction.org>
            2015, Andrew Lee (李健秋) <ajqlee@debian.org>
            2015, ChangZhuo Chen (陳昌倬) <czchen@debian.org>
 License: LGPL-2.1+

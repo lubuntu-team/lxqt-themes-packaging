@@ -1,3 +1,16 @@
+lxqt-themes (0.12.0-4) unstable; urgency=medium
+
+  * Bumped compat to 11
+  * Bumped debhelper to >= 11~
+  * Removed cmake minimum version, not needed any longer
+  * Bumped Standards to 4.1.4, no changes needed
+  * Changed VCS fields for salsa
+  * Changed Homepage, Source and watch to lxqt
+  * Bumped year in copyright
+  * Removed trailing whitespaces from changelog
+
+ -- Alf Gaida <agaida@siduction.org>  Sat, 28 Apr 2018 16:55:46 +0200
+
 lxqt-themes (0.12.0-3) unstable; urgency=medium
 
   * Bumped Standards to 4.1.2, no changes needed
@@ -14,6 +27,6 @@ lxqt-themes (0.12.0-2) unstable; urgency=medium
 
 lxqt-themes (0.12.0-1) experimental; urgency=medium
 
-  * Initial release (Closes: #867606) 
+  * Initial release (Closes: #867606)
 
  -- Alf Gaida <agaida@siduction.org>  Tue, 10 Oct 2017 18:16:26 +0200
