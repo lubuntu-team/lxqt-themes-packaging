@@ -1,5 +1,6 @@
 Source: lxqt-themes
-Maintainer: LXQt Packaging Team <pkg-lxqt-devel@lists.alioth.debian.org>
+Maintainer: Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: LXQt Packaging Team <pkg-lxqt-devel@lists.alioth.debian.org>
 Uploaders: Alf Gaida <agaida@siduction.org>,
            ChangZhuo Chen (陳昌倬) <czchen@debian.org>
 Section: x11
@@ -8,8 +9,10 @@ Build-Depends: debhelper (>= 11~),
                cmake,
                lxqt-build-tools
 Standards-Version: 4.1.4
-Vcs-Browser: https://salsa.debian.org/lxqt-team/lxqt-themes
-Vcs-Git: https://salsa.debian.org/lxqt-team/lxqt-themes.git
+Vcs-Browser: https://phab.lubuntu.me/source/lxqt-themes/
+Vcs-Git: https://phab.lubuntu.me/source/lxqt-themes.git
+XS-Debian-Vcs-Browser: https://salsa.debian.org/lxqt-team/lxqt-themes
+XS-Debian-Vcs-Git: https://salsa.debian.org/lxqt-team/lxqt-themes.git
 Homepage: https://github.com/lxqt/lxqt-themes
 
 Package: lxqt-themes
