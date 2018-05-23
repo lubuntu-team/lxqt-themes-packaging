@@ -1,11 +1,11 @@
-lxqt-themes (0.13.0-0ubuntu1) UNRELEASED; urgency=medium
+lxqt-themes (0.13.0-0ubuntu1) cosmic; urgency=medium
 
   * New upstream release.
   * Update Vcs-* and Maintainer to Lubuntu values.
   * Update build dependencies.
   * Update copyright.
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Tue, 22 May 2018 21:44:41 -0500
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 23 May 2018 00:01:07 -0500
 
 lxqt-themes (0.12.0-4) unstable; urgency=medium
 
