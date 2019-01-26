@@ -7,7 +7,7 @@ Section: x11
 Priority: optional
 Build-Depends: debhelper (>= 12),
                cmake,
-               lxqt-build-tools
+               lxqt-build-tools (>= 0.6.0)
 Standards-Version: 4.3.0
 Vcs-Browser: https://phab.lubuntu.me/source/lxqt-themes/
 Vcs-Git: https://phab.lubuntu.me/source/lxqt-themes.git
