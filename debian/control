@@ -5,7 +5,7 @@ Uploaders: Alf Gaida <agaida@siduction.org>,
            ChangZhuo Chen (陳昌倬) <czchen@debian.org>
 Section: x11
 Priority: optional
-Build-Depends: debhelper (>= 11),
+Build-Depends: debhelper (>= 12),
                cmake,
                lxqt-build-tools
 Standards-Version: 4.3.0
