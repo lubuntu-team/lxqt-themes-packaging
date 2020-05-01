@@ -5,9 +5,7 @@ Uploaders: Alf Gaida <agaida@siduction.org>,
            ChangZhuo Chen (陳昌倬) <czchen@debian.org>
 Section: x11
 Priority: optional
-Build-Depends: debhelper-compat (= 12),
-               cmake,
-               lxqt-build-tools (>= 0.7.0)
+Build-Depends: cmake, debhelper-compat (= 12), lxqt-build-tools (>= 0.7.0)
 Standards-Version: 4.5.0
 Vcs-Browser: https://phab.lubuntu.me/source/lxqt-themes/
 Vcs-Git: https://phab.lubuntu.me/source/lxqt-themes.git
@@ -18,8 +16,7 @@ Homepage: https://github.com/lxqt/lxqt-themes
 Package: lxqt-themes
 Architecture: all
 Multi-Arch: foreign
-Depends: ${misc:Depends},
-         lxqt-system-theme
+Depends: lxqt-system-theme, ${misc:Depends}
 Provides: lxqt-theme
 Breaks: lxqt-common (<< 0.12.0)
 Replaces: lxqt-common (<< 0.12.0)
@@ -37,8 +34,7 @@ Description: Themes for LXQt
 Package: lxqt-system-theme
 Architecture: all
 Multi-Arch: foreign
-Depends: ${misc:Depends},
-         x11-utils
+Depends: x11-utils, ${misc:Depends}
 Recommends: oxygen-icon-theme | breeze-icon-theme | faenza-icon-theme
 Breaks: lxqt-common (<< 0.12.0)
 Replaces: lxqt-common (<< 0.12.0)

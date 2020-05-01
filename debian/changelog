@@ -5,6 +5,7 @@ lxqt-themes (0.15.0-0ubuntu1) UNRELEASED; urgency=medium
     - Update LXQt build dependencies.
   * Update Standards-version to 4.5.0, no changes needed.
   * Migrate to debhelper-compat.
+  * Run wrap-and-sort.
 
  -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 30 Apr 2020 23:48:05 -0500
 
