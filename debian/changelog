@@ -1,4 +1,4 @@
-lxqt-themes (0.15.0-0ubuntu1) UNRELEASED; urgency=medium
+lxqt-themes (0.15.0-0ubuntu1) groovy; urgency=medium
 
   * New upstream release.
     - Update upstream signing key.
@@ -7,7 +7,7 @@ lxqt-themes (0.15.0-0ubuntu1) UNRELEASED; urgency=medium
   * Migrate to debhelper-compat.
   * Run wrap-and-sort.
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 30 Apr 2020 23:48:05 -0500
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 03 Jun 2020 23:26:22 -0500
 
 lxqt-themes (0.14.0-0ubuntu1) disco; urgency=medium
 
