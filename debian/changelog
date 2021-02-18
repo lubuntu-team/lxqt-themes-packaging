@@ -1,3 +1,22 @@
+lxqt-themes (0.16.0-1ubuntu1) hirsute; urgency=medium
+
+  * New upstream version.
+  * Bumped standards to 4.5.0.
+
+ -- Raman Sarda <theloudspeaker@disroot.org>  Thu, 18 Feb 2021 23:02:33 +0530
+
+lxqt-themes (0.16.0-1) unstable; urgency=medium
+
+  [ Alf Gaida ]
+  * Switched to gbp
+  * Bumped Standards-Version to 4.4.0, no changes needed
+
+  [ Andrew Lee (李健秋) ]
+  * New upstream release.
+  * debian/lxqt-themes.install: ship new themes.
+
+ -- Andrew Lee (李健秋) <ajqlee@debian.org>  Thu, 07 Jan 2021 15:46:13 +0800
+
 lxqt-themes (0.15.0-0ubuntu1) groovy; urgency=medium
 
   * New upstream release.
@@ -9,6 +28,17 @@ lxqt-themes (0.15.0-0ubuntu1) groovy; urgency=medium
 
  -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 03 Jun 2020 23:26:22 -0500
 
+lxqt-themes (0.14.0-1) unstable; urgency=medium
+
+  * Cherry-picking upstream version 0.14.0.
+  * Bumped Standards to 4.3.0, no changes needed
+  * Dropped d/compat, use debhelper-compat = 12, no changes needed
+  * Fixed years in d/copyright
+  * Bumped minimum version lxqt-build-tools (>= 0.6.0~)
+  * Added d/upstream/metadata
+
+ -- Alf Gaida <agaida@siduction.org>  Sun, 27 Jan 2019 14:57:29 +0100
+
 lxqt-themes (0.14.0-0ubuntu1) disco; urgency=medium
 
   * New upstream release.
@@ -17,6 +47,16 @@ lxqt-themes (0.14.0-0ubuntu1) disco; urgency=medium
   * Bump debhelper compat to 12, no changes needed.
 
  -- Simon Quigley <tsimonq2@ubuntu.com>  Fri, 25 Jan 2019 23:24:58 -0600
+
+lxqt-themes (0.13.0-1) unstable; urgency=medium
+
+  * Cherry-picking upstream version 0.13.0.
+  * Bumped build dependency lxqt-build-tools to >= 0.5.0
+  * Added papirus-icon-theme to theme alternatives, papirus is now
+    the default alternative
+  * Bump year in copyright
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 24 May 2018 18:10:41 +0200
 
 lxqt-themes (0.13.0-0ubuntu1) cosmic; urgency=medium
 
@@ -59,3 +99,4 @@ lxqt-themes (0.12.0-1) experimental; urgency=medium
   * Initial release (Closes: #867606)
 
  -- Alf Gaida <agaida@siduction.org>  Tue, 10 Oct 2017 18:16:26 +0200
+
