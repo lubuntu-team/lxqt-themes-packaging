@@ -19,8 +19,6 @@ Architecture: all
 Multi-Arch: foreign
 Depends: lxqt-system-theme, ${misc:Depends}
 Provides: lxqt-theme
-Breaks: lxqt-common (<< 0.12.0)
-Replaces: lxqt-common (<< 0.12.0)
 Description: Themes for LXQt
  Some upstream themes for LXQt
   * Ambiance
@@ -37,8 +35,6 @@ Architecture: all
 Multi-Arch: foreign
 Depends: x11-utils, ${misc:Depends}
 Recommends: oxygen-icon-theme | breeze-icon-theme | faenza-icon-theme
-Breaks: lxqt-common (<< 0.12.0)
-Replaces: lxqt-common (<< 0.12.0)
 Description: System theme for LXQt
  The System theme for LXQt provide basic styling for LXQt system
  components
