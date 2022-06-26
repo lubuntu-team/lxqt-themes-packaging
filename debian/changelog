@@ -3,6 +3,7 @@ lxqt-themes (1.1.0-0ubuntu1~ppa1) jammy; urgency=medium
   * Backport to Jammy.
   * Updated Lubuntu Developers copyright.
   * Removed "kde-plasma" entry from lxqt-themes.install.
+  * Overhauled the lxqt-themes.install file to actually install everything.
 
  -- Aaron Rainbolt <arraybolt3@gmail.com>  Sun, 26 Jun 2022 01:42:42 -0500
 
