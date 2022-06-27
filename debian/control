@@ -7,7 +7,7 @@ Uploaders: Alf Gaida <agaida@siduction.org>,
 Section: x11
 Priority: optional
 Build-Depends: cmake, debhelper-compat (= 13), lxqt-build-tools (>= 0.11.0)
-Standards-Version: 4.5.1
+Standards-Version: 4.6.1
 Vcs-Browser: https://phab.lubuntu.me/source/lxqt-themes/
 Vcs-Git: https://phab.lubuntu.me/source/lxqt-themes.git
 XS-Debian-Vcs-Browser: https://salsa.debian.org/lxqt-team/lxqt-themes
