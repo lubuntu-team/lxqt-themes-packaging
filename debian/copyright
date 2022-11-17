@@ -3,7 +3,7 @@ Upstream-Name: lxqt-themes
 Source: https://github.com/lxqt/lxqt-themes
 
 Files: *
-Copyright: 2012-2018 LXQt team
+Copyright: 2012-2022 LXQt team
            2010-2012 Razor team
 License: LGPL-2.1+
 
@@ -17,8 +17,8 @@ Copyright: 2012-2013, Giacomo Barazzetti <giacomosrv@gmail.com>
 License: CC-BY-SA-3.0
 
 Files: debian/*
-Copyright: 2021,      Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
-           2014-2018, Alf Gaida <agaida@siduction.org>
+Copyright: 2021-2022, Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
+           2014-2019, Alf Gaida <agaida@siduction.org>
            2015,      Andrew Lee (李健秋) <ajqlee@debian.org>
            2015,      ChangZhuo Chen (陳昌倬) <czchen@debian.org>
 License: LGPL-2.1+

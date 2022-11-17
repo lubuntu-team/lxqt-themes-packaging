@@ -1,34 +1,22 @@
-lxqt-themes (1.1.0-0ubuntu2) kinetic; urgency=medium
+lxqt-themes (1.1.0-1) experimental; urgency=medium
 
-  * Update the install file for the upstream release.
+  [ Aaron Rainbolt ]
+  * New upstream release 1.1.0.
+  * Removed obsolete debian/compat file.
+  * Switched to GBP.
+  * Created debian/upstream/metadata.
+  * Upstreamed non-Ubuntu-specific packaging changes from Ubuntu, modifying
+    the following files:
+    - control
+    - copyright
+    - *.install
+    - rules
+    - upstream/signing-key.asc
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 02 Jun 2022 13:42:39 -0500
+  [ Simon Quigley ]
+  * Fix some various merge errors.
 
-lxqt-themes (1.1.0-0ubuntu1) kinetic; urgency=medium
-
-  * New upstream release.
-  * Bumped build dependencies.
-  * Drop old Breaks/Replaces since we're past the LTS. Update the
-    runtime dependencies too.
-
- -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 02 Jun 2022 12:43:40 -0500
-
-lxqt-themes (0.17.0-0ubuntu1) impish; urgency=medium
-
-  * New upstream release 0.17.0
-  * Update debian/control
-    - Bump Standards-Version to 4.5.1
-    - Use lxqt-build-tools 0.9.0
-  * Update debian/copyright
-
- -- apt-ghetto <apt-ghetto@protonmail.com>  Mon, 16 Aug 2021 15:05:16 +0200
-
-lxqt-themes (0.16.0-1ubuntu1) hirsute; urgency=medium
-
-  * New upstream version.
-  * Bumped standards to 4.5.0.
-
- -- Raman Sarda <theloudspeaker@disroot.org>  Thu, 18 Feb 2021 23:02:33 +0530
+ -- Aaron Rainbolt <arraybolt3@gmail.com>  Sat, 09 Jul 2022 23:16:23 -0500
 
 lxqt-themes (0.16.0-1) unstable; urgency=medium
 
@@ -42,17 +30,6 @@ lxqt-themes (0.16.0-1) unstable; urgency=medium
 
  -- Andrew Lee (李健秋) <ajqlee@debian.org>  Thu, 07 Jan 2021 15:46:13 +0800
 
-lxqt-themes (0.15.0-0ubuntu1) groovy; urgency=medium
-
-  * New upstream release.
-    - Update upstream signing key.
-    - Update LXQt build dependencies.
-  * Update Standards-version to 4.5.0, no changes needed.
-  * Migrate to debhelper-compat.
-  * Run wrap-and-sort.
-
- -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 03 Jun 2020 23:26:22 -0500
-
 lxqt-themes (0.14.0-1) unstable; urgency=medium
 
   * Cherry-picking upstream version 0.14.0.
@@ -64,15 +41,6 @@ lxqt-themes (0.14.0-1) unstable; urgency=medium
 
  -- Alf Gaida <agaida@siduction.org>  Sun, 27 Jan 2019 14:57:29 +0100
 
-lxqt-themes (0.14.0-0ubuntu1) disco; urgency=medium
-
-  * New upstream release.
-    - Bump build dependencies.
-  * Bump Standards-version to 4.3.0, no changes needed.
-  * Bump debhelper compat to 12, no changes needed.
-
- -- Simon Quigley <tsimonq2@ubuntu.com>  Fri, 25 Jan 2019 23:24:58 -0600
-
 lxqt-themes (0.13.0-1) unstable; urgency=medium
 
   * Cherry-picking upstream version 0.13.0.
@@ -82,15 +50,6 @@ lxqt-themes (0.13.0-1) unstable; urgency=medium
   * Bump year in copyright
 
  -- Alf Gaida <agaida@siduction.org>  Thu, 24 May 2018 18:10:41 +0200
-
-lxqt-themes (0.13.0-0ubuntu1) cosmic; urgency=medium
-
-  * New upstream release.
-  * Update Vcs-* and Maintainer to Lubuntu values.
-  * Update build dependencies.
-  * Update copyright.
-
- -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 23 May 2018 00:01:07 -0500
 
 lxqt-themes (0.12.0-4) unstable; urgency=medium
 
@@ -124,4 +83,3 @@ lxqt-themes (0.12.0-1) experimental; urgency=medium
   * Initial release (Closes: #867606)
 
  -- Alf Gaida <agaida@siduction.org>  Tue, 10 Oct 2017 18:16:26 +0200
-
