@@ -1,6 +1,7 @@
 lxqt-themes (1.2.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Fix the watch file, for real this time.
 
  -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 16 Nov 2022 21:34:46 -0600
 
