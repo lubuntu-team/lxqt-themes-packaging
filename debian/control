@@ -7,7 +7,7 @@ Uploaders: Alf Gaida <agaida@siduction.org>,
            Aaron Rainbolt <arraybolt3@gmail.com>
 Section: x11
 Priority: optional
-Build-Depends: cmake, debhelper-compat (= 13), lxqt-build-tools (>= 0.11.0)
+Build-Depends: cmake, debhelper-compat (= 13), lxqt-build-tools (>= 0.12.0)
 Standards-Version: 4.6.1
 Vcs-Browser: https://git.lubuntu.me/Lubuntu/lxqt-themes-packaging
 Vcs-Git: https://git.lubuntu.me/Lubuntu/lxqt-themes-packaging.git
