@@ -1,3 +1,9 @@
+lxqt-themes (1.1.0-0ubuntu2) kinetic; urgency=medium
+
+  * Update the install file for the upstream release.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 02 Jun 2022 13:42:39 -0500
+
 lxqt-themes (1.1.0-0ubuntu1) kinetic; urgency=medium
 
   * New upstream release.
