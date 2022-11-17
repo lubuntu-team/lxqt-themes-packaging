@@ -1,11 +1,11 @@
-lxqt-themes (1.2.0-0ubuntu1) UNRELEASED; urgency=medium
+lxqt-themes (1.2.0-0ubuntu1) lunar; urgency=medium
 
   * New upstream release.
   * Fix the watch file, for real this time.
   * Lubuntuify the package slightly, to make debhelper happy.
   * Bump lxqt-build-tools build dep.
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 16 Nov 2022 21:34:46 -0600
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 16 Nov 2022 21:48:47 -0600
 
 lxqt-themes (1.1.0-1) experimental; urgency=medium
 
