@@ -1,8 +1,8 @@
-lxqt-themes (1.2.0-0ubuntu2) UNRELEASED; urgency=medium
+lxqt-themes (1.2.0-0ubuntu2) lunar; urgency=medium
 
   * Overhauled copyright file.
 
- -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 01 Dec 2022 14:52:28 -0700
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 01 Dec 2022 14:58:29 -0700
 
 lxqt-themes (1.2.0-0ubuntu1) lunar; urgency=medium
 
