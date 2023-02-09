@@ -4,7 +4,7 @@ lxqt-themes (1.2.0-0ubuntu2) lunar; urgency=medium
   * Bumped Standards-Version to 4.6.2, no changes necessary.
   * Ran wrap-and-sort.
 
- -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 01 Dec 2022 14:58:29 -0700
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Thu, 09 Feb 2023 16:06:39 -0600
 
 lxqt-themes (1.2.0-0ubuntu1) lunar; urgency=medium
 
