@@ -6,3 +6,7 @@
 
 override_dh_missing:
 	dh_missing --fail-missing
+
+override_dh_install:
+	dh_install
+	rm -rf debian/lxqt-themes/usr/share/lxqt/themes/system/
