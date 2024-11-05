@@ -10,3 +10,4 @@ override_dh_missing:
 override_dh_install:
 	dh_install
 	rm -rf debian/lxqt-themes/usr/share/lxqt/themes/system/
+	rm debian/lxqt-themes/usr/share/lxqt/wallpapers/License

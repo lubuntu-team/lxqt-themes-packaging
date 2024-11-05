@@ -1,0 +1,2 @@
+# This is okay/expected
+lxqt-system-theme: package-contains-documentation-outside-usr-share-doc [usr/share/lxqt/graphics/README]
