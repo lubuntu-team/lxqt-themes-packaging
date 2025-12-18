@@ -1,3 +1,9 @@
+lxqt-themes (2.2.0-0ubuntu2) resolute; urgency=medium
+
+  * Recommend kf6-breeze-icon-theme instead of transitional package.
+
+ -- Rik Mills <rikmills@kde.org>  Thu, 18 Dec 2025 13:05:59 +0000
+
 lxqt-themes (2.2.0-0ubuntu1) questing; urgency=medium
 
   * New upstream release.

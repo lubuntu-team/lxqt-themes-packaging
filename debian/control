@@ -36,7 +36,7 @@ Package: lxqt-system-theme
 Architecture: all
 Multi-Arch: foreign
 Depends: x11-utils, ${misc:Depends}
-Recommends: papirus-icon-theme | oxygen-icon-theme | breeze-icon-theme | faenza-icon-theme
+Recommends: papirus-icon-theme | oxygen-icon-theme | kf6-breeze-icon-theme | faenza-icon-theme
 Description: System theme for LXQt
  The System theme for LXQt provide basic styling for LXQt system
  components
