@@ -31,8 +31,8 @@ License: LGPL-3
 Files: debian/*
 Copyright: 2014-2019 Alf Gaida <agaida@siduction.org>
            2015 Andrew Lee (李健秋) <ajqlee@debian.org>
-           2015 ChangZhuo Chen (陳昌倬) <czchen@debian.org>
            2022 Simon Quigley <tsimonq2@debian.org>
+           2015-2025 ChangZhuo Chen (陳昌倬) <czchen@debian.org>
            2023-2026 Aaron Rainbolt <arraybolt3@ubuntu.com>
 License: LGPL-2.1+
 
